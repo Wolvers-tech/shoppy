@@ -1,3 +1,11 @@
+
+# vsCode
+.vscode
+.expo
+.expo-shared
+
+#node_module 
+node_modules
 # Logs
 logs
 *.log
